@@ -1,0 +1,6 @@
+@DevelopersHubAPI_HostAddress = http://localhost:5190
+
+GET {{DevelopersHubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
